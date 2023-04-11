@@ -1,0 +1,11 @@
+base58==2.1.1
+Deprecated==1.2.13
+ECPy==1.2.5
+h11==0.14.0
+httpcore==0.16.3
+httpx==0.23.3
+pycryptodome==3.17
+rfc3986==1.5.0
+types-Deprecated==1.2.9.2
+websockets==10.4
+xrpl-py==1.8.0
