@@ -1,3 +1,7 @@
+This project is for learning purposes only, collected information from the XRPL network documents and github pages.
+
+<br>
+
 [![MasterHead](https://github.com/Flow-matic/xrpl-ledger-with-python/blob/main/images/xrp_ledger.png?raw=true)]()
 
 .. xrpl-py documentation master file, created by
